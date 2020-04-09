@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang=en>
+
+<link href=data:, rel=icon>
+
+<title>Liam Timms$if(title)$ - $title$$endif$</title>
+
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1.0">
+
+<style>$header-includes$</style>
+
+<nav>
+    <ul>
+        <li><a href=/pages/projects><b>Research</b></a>
+        <li><a href=/blog/>Blog</a>
+        <li><a href=https://github.com/liamtimms/>GitHub</a>
+        <li><a href=/pages/contact/>Contact</a>
+        <li><a href=/pages/donate/>Donate</a>
+    </ul>
+</nav>
+
+<main>
+
+    $if(date)$
+        <br>
+        <p>Published <b>$date$</b> by <a href="https://github.com/liamtimms">Liam Timms</a>.</p>
+    $endif$
+
+    $if(title)$
+        <h1>$title$</h1>
+    $else$
+        <br>
+    $endif$
+
+$body$
+    <br>
+    <pre></pre>
+</main>
+
+<footer>
+    <div id=m><p>Liam Timms 2019</p></div>
+</footer>
