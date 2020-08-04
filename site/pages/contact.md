@@ -1,8 +1,6 @@
 ---
-title: Reach out
+title: Reach Out
 ---
-
-I can found or contacted via:
 
 -----------     ------
 **Email**:      <timms5000@gmail.com>
