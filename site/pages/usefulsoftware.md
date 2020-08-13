@@ -1,33 +1,46 @@
 ---
-title: Software and websites I find useful in my daily life
+title: Software I find useful in my daily life
 ---
 
-## Linux Distributions
+## Linux Distributions:
 ### Linux Mint
 A great distro for new linux users, this is based on Ubuntu's Long Term Support release but has additional tools to help guide new users and run smoothly without the need for detailed configurations. Ubuntu has the largest linux desktop community which leads to lots of online help and official support which is nearly always equally applicable to Mint. Valuing stability over new feature updates, this works well for someone who just wants their machine to work and doesn't care if they don't have the latest features of each and every program.
 
 ### Arch Linux
 Almost the exact opposite philosophy from Mint, this distro is all about setting up a bleeding-edge system from the ground up for an individual's preferences. Rather than maintaining a long supported stable system of increasingly old programs, it is constantly updating, keeping pace with most new software releases directly from the developers. Arch Linux makes sharing software very easy by allowing anyone to contribute install scripts to the Arch User Repository. I have found this particularly useful for neuroimaging programs which are almost all under active development by other researchers and academics. Using Arch as my platform for my own analysis development allows me to keep up with important features from the neuroimaging in an integrated and automated way.
 
-This website was written in `markdown` using `neovim` on Arch Linux and converted to html with `pandoc`.
+*This website was written in `markdown` using `neovim` on Arch Linux and converted to html with `pandoc`.* Since it's my main OS, I'll give instuctions for installing each of these programs on it.
 
 ### Debian
-Rock-solid. Free software. "The universal operating system." It's Debian. Great for servers (like the one I am running this site with!). Great for reproducible research. Not so great for standard desktop use.
+Rock-solid. Free software. "The universal operating system." It's Debian. Great for servers and a good base for reproducible research. I'm running this site on a Debian server. However, the slow update cycle and focus on servers over desktop users makes it frustrating for standard desktop use in my experience.
 
-## Terminal Applications
+## Terminal Applications:
 ### Neovim
-Vim is a decades old text editor program with an absolutely brilliant built in language for manipulating text. Neovim is a refactored and modernized version which is adding new features. Vim/neovim have many powerful extensions available letting you do everything from compiling LaTeX documents live as they are edited to automatically formatting Python code, you can see my particular configuration/plugins here: https://raw.githubusercontent.com/liamtimms/configs/master/.config/nvim/init.vim
+Vim is a decades old text editor program with an absolutely brilliant built in language for manipulating text. Neovim is a refactored and modernized version which is adding new features. Vim/neovim have many powerful extensions available letting you do everything from compiling LaTeX documents live as they are edited to automatically formatting Python code (all from the same program), you can see my particular configuration/plugins here: https://raw.githubusercontent.com/liamtimms/configs/master/.config/nvim/init.Vim
+
+If you aren't sold on it, this
+
+**Install:** `# pacman -S neovim`
+**Run:** `nvim [filename]`
 
 ### Pandoc
 A very powerful little program for converting between document types. I use it often as it allows one to write quickly in the simple language of Markdown and then generate pdfs (via LaTeX), slide shows, or html for websites (like this whole site!).
 
-## Scientific Software
+**Install:** `# pacman -S pandoc`
+**Run:** `pandoc [inputfilename] -o [outputfilename]`
+
+## Scientific Software:
 ### Zotero
-I used to recommend Mendeley as a way to manage one's library of scientific literature but recent releases have become extremely buggy for large libraries and the company behind the program is increasingly hostile to users and have started trying to lock down one's library with encryption to limit user freedom to change platforms. I currently believe Zotero is a much better long term option.
+I used to recommend Mendeley as a way to manage one's library of scientific literature but recent releases have become extremely buggy for large libraries and the company behind the program is increasingly hostile to users and have started trying to lock down one's library with encryption. Encryption is often useful to users but here is is ued only to limit user freedom to switch platforms. I currently believe Zotero is a much better long term option.
 
 ### The Nipy Neuroimaging Python Suite
 
-## General Utilities
+## General Utilities:
 ### Zathura
-Not scientific software specifically but scientific papers are generally available in pdf format and this is a super fast and simple pdf reader which I use daily. `ctrl+i` inverts colors.
+Not scientific software specifically but scientific papers are generally available in pdf format and this is a super fast and simple pdf reader which I use daily. `ctrl+r` inverts colors.
 
+### ssh
+Let's you interact with a machine remotely.
+### tmux + ssh
+
+###
