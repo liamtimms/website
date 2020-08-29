@@ -1,11 +1,19 @@
 ---
-title: Liam's Personal Site
+title: Welcome
 ---
-**THIS IS A WORK IN PROGRESS, UNFINISHED SITE**
 
-This site is a simple overview of my life as a PhD student/researcher as well as a minor side project for me to play around with.
+<a href="/images/logo.png">
+<p><picture>
+  <source srcset="/images/logo.webp" type="image/webp">
+  <img src="/images/logo.png" alt="A personal logo made in python">
+</picture></p>
+</a>
 
-## Work:
+Welcome, to my personal website. Mostly, this site is a simple overview of my life as a PhD student/researcher as well as a minor side project for me to play around with.
+
+**THIS IS A WORK IN PROGRESS, UNFINISHED SITE** (some sections are just placeholders, some need some serious editing).
+
+## Work
 ### PhD
 I currently work as a PhD student at Northeastern University in the Sridhar Lab. This work gives me the opportunity to take live MRI images of rat and human vasculature like this:
 
@@ -18,7 +26,7 @@ I currently work as a PhD student at Northeastern University in the Sridhar Lab.
 
 and to do many other interesting things with MRI imaging. More detail about my work can be found under the [**Research**](./pages/projects.html) section of this site.
 
-## Life:
+## Life
 ### Location
 I live in an apartment in the Jamaica Plain neighborhood of the city of Boston in the state of Massachusetts of the United States of America on the North American continent of the planet Earth circling the Sun in the Orion Arm of the Milky Way galaxy in the Local Group of the Virgo Supercluster of this reality. Hopefully, I won't leave most of these designations anytime soon.
 
