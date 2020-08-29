@@ -9,6 +9,7 @@ Quantitative Ultrashort-Time-to-Echo Magnetic Resonance Imaging (QUTE-CE MRI) is
 
 ### Preclinical Work
 In a paper I co-first authored with Dr. Gharagouzloo, we demonstrated the technique can be used to image blood vessels and blood volume in the rat brain \cite{Gharagouzloo2017}.
+
 * I also work on development of the technique for **functional imaging**:
     + My initial interest in the technique was for it's potential use for measurement of dynamic blood volume changes across the brain
     + In the 2017 Neuroimage paper we demonstrated that changes in blood volume could be measured between long lasting brain states (eg. awake vs anesthetized)
@@ -23,21 +24,31 @@ In a paper I co-first authored with Dr. Gharagouzloo, we demonstrated the techni
 
 ### Clinical Work
 I am currently responsible for much of this ongoing project as it is the subject of my in-progress PhD thesis:
+
 * In 2017 we started a clinical trial for QUTE-CE MRI for the first time in human subjects. In this **clinical trial** of the technique for brain imaging, I...
-    + worked on the implementation of the scan protocol using Seimen's WIP 992 collaboratively with vitally important collaborators
+    + worked on the implementation of the scan protocol using a Siemens WIP with vitally important collaborators
     + lead the organization of the project on both the scanning logistics and the data analysis
     + interfaced with the volunteer research subjects (after their recruitment) to set them up in the scanner
     + operated the Seimens 3T PRISMA MRI scanner
-    + fully developed a custom analysis pipeline written in python using nipype, FSL, Freesurfer, SPM, ANTs, and some of my additional custom scripts (MATLAB and python) to analyze the resulting data
+    + fully developed a custom analysis pipeline written in python using nipype, FSL, Freesurfer, SPM, ANTs, and some of additional custom scripts (MATLAB and python) to analyze the resulting data
     + completed the majority of the data analysis using said pipeline
     + wrote the majority of the text for the pending publications of this work
+* In 2020, we began moving forward with additional clinical projects.
 
 
-## MRArch:
-As part of the above QUTE-CE MRI project, I had to use a number of neuroimaging tools together, many of which are bing actively improved and updated by the outstanding open-source neuroscientific/medical imaging communities. I wanted a way to automatically set-up and use the state of the art versions of these imaging suites together in concert.
+## MRArch
+As part of the above QUTE-CE MRI project, I had to use a number of neuroimaging tools together. Since this is an area of very active research and development, many of these tools are bing actively improved and updated by the outstanding open-source neuroscientific/medical imaging communities. I wanted a way to automatically set-up and use the state of the art versions of these imaging suites together in concert as simply as possible.
 
 ### The AUR
-Nipype solves the problem of how to integrate multiple tools together and the features of Arch Linux allow easy scripting of software installation and updates for the community. Thus, out of necessity I created a basic script for installing and configuring all major neuroimaging software on Arch Linux (mainly using the community run Arch User Repository) and contributed to or created multiple packages on that repository: <https://aur.archlinux.org/packages/?O=0&SeB=M&K=liamtimms&outdated=&SB=n&SO=a&PP=50&do_Search=Go>
+The Arch User Repository (AUR) is a site provided by the Arch Linux project which contains download, build and install recipes to package software for installation and use with the system *pac*kage *man*ager (`pacman`). This allows software to be distributed through 3rd party sites but installed and updated through native system tools. Out of necessity I created a basic script for installing and configuring all major neuroimaging software on Arch Linux (mainly using the community run Arch User Repository) and I have contributed to or created multiple packages on that repository: <https://aur.archlinux.org/packages/?O=0&SeB=M&K=liamtimms&outdated=&SB=n&SO=a&PP=50&do_Search=Go>
+
+I've currently labeled this side-project (the combination of the install scripts and community packages) - Magnetic Resonance on Arch (MRArch). While Nipype provides easy integration of multiple neuroimaging applications into powerful workflows, MRArch allows easy installation, automatic updates and simple management of these applications on one platform.
 
 ### The Script and Instructions
 github link
+
+### Comparison to Similar Projects
+* Neurodocker
+* Neurodebian
+
+
