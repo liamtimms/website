@@ -15,7 +15,7 @@ Welcome, to my personal website. Mostly, this site is a simple overview of my li
 
 ## Work
 ### PhD
-I currently work as a PhD student at Northeastern University in the Sridhar Lab. This work gives me the opportunity to take live MRI images of rat and human vasculature like this:
+I currently work as a physics PhD student at **Northeastern University** in the [Sridhar Lab](https://srinivassridhar.com/). This work gives me the opportunity to take live MRI images of rat and human vasculature like this:
 
 <a href="/images/ratrender.jpg">
 <p><picture>
@@ -24,7 +24,7 @@ I currently work as a PhD student at Northeastern University in the Sridhar Lab.
 </picture></p>
 </a>
 
-and to do many other interesting things with MRI imaging. More detail about my work can be found under the [**Research**](./pages/projects.html) section of this site.
+and to do many other interesting things with MRI imaging at the intersection of biology, neuroscience, computer science and, of course, physics. More detail about my work can be found under the [**Research**](./pages/projects.html) section of this site.
 
 ## Life
 ### Location
