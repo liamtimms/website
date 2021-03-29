@@ -2,9 +2,9 @@
 title: Fun or Interesting Stuff
 ---
 
-I plan to collect some more fun stuff here. This is mostly just a place holder page at the moment[.](https://youtu.be/d6uN9xYUMxE)
+I plan to collect some more fun stuff here. This is mostly just a place holder page at the moment[.](https://youtu.be/d6uN9xYUMxE) Links are intended to encourage deeper dives.
 
-# Video
+# Things to Watch
 
 ## Science, Technology, Engineering and Math
 
@@ -16,7 +16,9 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 
 ## Funny
 
-- [Text](https://www.url.com)
+- [Celery Man](https://www.youtube.com/watch?v=RluN0l4orOU)
+- [07/27/1978](https://youtu.be/NAh9oLs67Cw)
+- [Illuminati Conspiracies Revealed](https://youtu.be/bWIkqEnVG8I)
 
 ## Philosophy
 
@@ -28,40 +30,51 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 
 - [Bloodborne](https://youtu.be/KEffnsSxKKs)
 
-# Audio
+## Websites
+
+- [An icredible Fourier Transform introduction](http://www.jezzamon.com/fourier/index.html)
+- [The First Website (CERN)](http://info.cern.ch/)
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+
+# Things to Listen to
 
 ## Podcasts
 
-- [Freakonomics]()
-- [RadioLab]()
-- [Invisibilia]()
-- [The Adventure Zone]()
+- [Freakonomics](https://freakonomics.com/podcast/the-true-story-of-the-gender-pay-gap-a-new-freakonomics-radio-podcast/)
+- [RadioLab](https://www.wnycstudios.org/podcasts/radiolab/episodes/91520-space)
+- [Invisibilia](https://www.npr.org/programs/invisibilia/375927143/the-secret-history-of-thoughts)
+- [The Adventure Zone](https://maximumfun.org/episodes/adventure-zone/ep-1-here-there-be-gerblins-chapter-one/)
+- [The PRIVACY, SECURITY, & OSINT Show](https://inteltechniques.com/podcast.html)
 
 ## Music
 
+- [ILWAG](https://www.youtube.com/watch?v=BeI6an1Fy6E)
+- [Frank Watkinson](https://www.youtube.com/watch?v=RluN0l4orOU)
 - [St. Vincent](https://www.youtube.com/watch?v=V-24m-KRkn0)
 - [DDWIWDD](https://www.youtube.com/watch?v=V-24m-KRkn0)
 - [TTNG](https://www.youtube.com/watch?v=QMqhie-U-Wk)
 - [Glassjaw](https://www.youtube.com/watch?v=BWDRSevC7wI)
 - [TFOT](https://www.youtube.com/watch?v=9X_B1HVd_8k)
 
-## Websites
-
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 ## Articles
 
 - [Oliver Sacks](https://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html)
 
-# Imagination
+# Things to Imagine
 
 ## Books
 
 ### Fiction
 
-- [The Brothers Karamazov](https://www.url.com)
+- [The Brothers Karamazov](https://www.gutenberg.org/files/8578/8578-h/8578-h.htm)
 
 ### Nonfiction
+
+- [Evolution's Rainbow]()
+- [Sync]()
+- [Grit]()
+
 
 ## RPGs
 
