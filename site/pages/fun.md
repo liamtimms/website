@@ -2,23 +2,24 @@
 title: Fun or Interesting Stuff
 ---
 
-I plan to collect some more fun stuff here. This is mostly just a place holder page at the moment[.](https://youtu.be/d6uN9xYUMxE) Links are intended to encourage deeper dives.
+I plan to collect things I find fun/interesting here. This is mostly just a place holder page at the moment[.](https://youtu.be/d6uN9xYUMxE)
+
+Links are intended to encourage deeper dives into each creator and/or subject.
 
 # Things to Watch
 
-## Science, Technology, Engineering and Math
+## Science and Math
 
+- [Sabine Hossenfelder](https://www.youtube.com/watch?v=BJA_faoIFco)
 - [3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
-- [Robert Miles](https://www.youtube.com/watch?v=ZeecOKBus3Q)
-- [nixcasts](https://www.youtube.com/watch?v=QeJkAs_PEQQ)
 - [Kurzgesagt](https://www.youtube.com/watch?v=16W7c0mb-rE)
 - [Eric Elliot](https://www.youtube.com/watch?v=PqbB07n_uQ4)
 
-## Funny
+## Technology
 
-- [Celery Man](https://www.youtube.com/watch?v=RluN0l4orOU)
-- [07/27/1978](https://youtu.be/NAh9oLs67Cw)
-- [Illuminati Conspiracies Revealed](https://youtu.be/bWIkqEnVG8I)
+- [Robert Miles](https://www.youtube.com/watch?v=ZeecOKBus3Q)
+- [nixcasts](https://www.youtube.com/watch?v=QeJkAs_PEQQ)
+- [Sebastian Lange](https://www.youtube.com/watch?v=dY6jR52fFWo)
 
 ## Philosophy
 
@@ -26,9 +27,11 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 - [Meditations of Marcus Aurelius - SUMMARIZED](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [Pale Blue Dot - Carl Sagan](https://youtu.be/nl5dlbCh8lY)
 
-## Games
+## Funny
 
-- [Bloodborne](https://youtu.be/KEffnsSxKKs)
+- [Celery Man](https://www.youtube.com/watch?v=RluN0l4orOU)
+- [07/27/1978](https://youtu.be/NAh9oLs67Cw)
+- [Illuminati Conspiracies Revealed](https://youtu.be/bWIkqEnVG8I)
 
 ## Websites
 
@@ -48,18 +51,18 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 
 ## Music
 
+- [St. Vincent](https://www.youtube.com/watch?v=V-24m-KRkn0)
 - [ILWAG](https://www.youtube.com/watch?v=BeI6an1Fy6E)
 - [Frank Watkinson](https://www.youtube.com/watch?v=RluN0l4orOU)
-- [St. Vincent](https://www.youtube.com/watch?v=V-24m-KRkn0)
 - [DDWIWDD](https://www.youtube.com/watch?v=V-24m-KRkn0)
 - [TTNG](https://www.youtube.com/watch?v=QMqhie-U-Wk)
 - [Glassjaw](https://www.youtube.com/watch?v=BWDRSevC7wI)
 - [TFOT](https://www.youtube.com/watch?v=9X_B1HVd_8k)
 
-
 ## Articles
 
 - [Oliver Sacks](https://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html)
+- [Steve Mirsky](https://www.scientificamerican.com/article/acknowledging-reality-is-an-excellent-way-to-function-within-it/)
 
 # Things to Imagine
 
@@ -68,6 +71,7 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 ### Fiction
 
 - [The Brothers Karamazov](https://www.gutenberg.org/files/8578/8578-h/8578-h.htm)
+- [Slaughterhouse-Five](https://www.penguinrandomhouse.ca/books/184345/slaughterhouse-five-by-kurt-vonnegut/9780385333849/excerpt)
 
 ### Nonfiction
 
@@ -75,8 +79,9 @@ I plan to collect some more fun stuff here. This is mostly just a place holder p
 - [Sync]()
 - [Grit]()
 
-
 ## RPGs
 
+- [Goblin Punch](http://goblinpunch.blogspot.com/2021/02/myconids.html)
 - [Dungeon World](https://dungeon-world.com/)
 - [Dungeons and Dragons 5e]()
+- [Veins of the Earth]()
