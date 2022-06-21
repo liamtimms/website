@@ -10,12 +10,16 @@ Links are intended to encourage deeper dives into each creator and/or subject.
 
 ## Science and Math
 
-- [Sabine Hossenfelder](https://www.youtube.com/watch?v=BJA_faoIFco)
+Interesting channels to check out for popularizing science.
+
+- [Sixty Symbols](https://youtu.be/9FrsYjkKhBI)
 - [3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [Kurzgesagt](https://www.youtube.com/watch?v=16W7c0mb-rE)
 - [Eric Elliot](https://www.youtube.com/watch?v=PqbB07n_uQ4)
 
 ## Technology
+
+Inspiring applications and developments in AI, programming and linux use.
 
 - [Robert Miles](https://www.youtube.com/watch?v=ZeecOKBus3Q)
 - [nixcasts](https://www.youtube.com/watch?v=QeJkAs_PEQQ)
@@ -23,21 +27,28 @@ Links are intended to encourage deeper dives into each creator and/or subject.
 
 ## Philosophy
 
+A few fundamental things for me as a person:
+
 - [There Are No Miracle People - Feynman](https://www.youtube.com/watch?v=IIDLcaQVMqw)
 - [Meditations of Marcus Aurelius - SUMMARIZED](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [Pale Blue Dot - Carl Sagan](https://youtu.be/nl5dlbCh8lY)
-
-## Funny
-
-- [Celery Man](https://www.youtube.com/watch?v=RluN0l4orOU)
-- [07/27/1978](https://youtu.be/NAh9oLs67Cw)
-- [Illuminati Conspiracies Revealed](https://youtu.be/bWIkqEnVG8I)
+- [Philosphytube](https://youtu.be/DqPd6MShV1o)
 
 ## Websites
+
+Interesting or odd sites to play with:
 
 - [An icredible Fourier Transform introduction](http://www.jezzamon.com/fourier/index.html)
 - [The First Website (CERN)](http://info.cern.ch/)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+
+## Funny
+
+memes
+
+- [Celery Man](https://www.youtube.com/watch?v=RluN0l4orOU)
+- [07/27/1978](https://youtu.be/NAh9oLs67Cw)
+- [Illuminati Conspiracies Revealed](https://youtu.be/bWIkqEnVG8I)
 
 # Things to Listen to
 
