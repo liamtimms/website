@@ -15,7 +15,7 @@ This site is a simple overview of my life as a researcher and a small personal s
 
 ### PhD
 
-In 2021, I finished my physics PhD at **Northeastern University** in the [Sridhar Lab](https://srinivassridhar.com/). I have coninued to work on related projects moving into 2022 but am now shifting my attention to new projects and directions. This work gave me the opportunity to take live MRI images of rat and human vasculature like this:
+In 2021, I finished my physics Ph.D. at **Northeastern** University** in the [Sridhar Lab](https://srinivassridhar.com/). I have continued to work on related projects moving into 2022 but am now shifting my attention to new projects and directions. This work gave me the opportunity to take live MRI images of rat and human vasculature like this:
 
 <a href="/images/ratrender.jpg">
 <p><picture>
@@ -43,12 +43,12 @@ I created this image of my head + brain by acquiring my anatomical MRI data with
 
 ### Location
 
-I live in an apartment in the Jamaica Plain neighborhood of the city of Boston in the state of Massachusetts in the United States of America, on the North American continent of the planet Earth, circling the Sun in the Orion Arm of the Milky Way in the Local Group of the Virgo Supercluster of this reality. Ideally, I won't leave the later designations any time soon though the former are considerably more flexible.
+I live in an apartment in the Jamaica Plain neighborhood of the city of Boston in the state of Massachusetts in the United States of America, on the North American continent of the planet Earth, circling the Sun in the Orion Arm of the Milky Way in the Local Group of the Virgo Supercluster of this reality. Ideally, I won't leave the latter designations any time soon though the former are considerably more flexible.
 
 ### Hobbies
 
-While I wouldn't say I have much "spare time," I prioritize reading, drawing, and painting when not working on research. In addition, I enjoy working on basic programming and automation problems as I learn more about these tools. In non-COVID times, I often attended local concerts, visited my local pub with friends, and ran table-top RPGs for other physics graduate students.
+While I wouldn't say I have much "spare time," I prioritize reading, drawing, and painting when not working on research. In addition, I enjoy working on basic programming and automation problems as I learn more about these tools. In non-COVID times, I often attended local concerts, visited my local pub with friends, and ran tabletop RPGs for other physics graduate students.
 
-**Acknowledgements:** To generate this site, I modified a `bash` script + `pandoc` method previously provided by Dylan Araps ([dylanaraps](https://github.com/dylanaraps)) for the KISS Linux project under the MIT license. Unfortunately, the source for the original script is long dead, but the modified script is available on my GitHub here: [https://github.com/liamtimms/website/blob/master/make](https://github.com/liamtimms/website/blob/master/make).
+**Acknowledgments**:** To generate this site, I modified a `bash` script + `pandoc` method previously provided by Dylan Araps ([dylanaraps](https://github.com/dylanaraps)) for the KISS Linux project under the MIT license. Unfortunately, the source for the original script is long dead, but the modified script is available on my GitHub here: [https://github.com/liamtimms/website/blob/master/make](https://github.com/liamtimms/website/blob/master/make).
 
 I generated the site background using [svgbackgrounds](https://www.svgbackgrounds.com/#flat-mountains) under CC BY 4.0.

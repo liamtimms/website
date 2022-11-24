@@ -16,39 +16,40 @@ From this point on, the guide assumes you have booted a live-CD and have an **in
 
 <!-- vim-markdown-toc GFM -->
 
-* [Setting up disks](#setting-up-disks)
-* [Install KISS](#install-kiss)
-    * [Download the latest release](#download-the-latest-release)
-    * [Verify the checksums (*recommended*)](#verify-the-checksums-recommended)
-    * [Verify the signature (*recommended*)](#verify-the-signature-recommended)
-    * [Download the chroot helper](#download-the-chroot-helper)
-    * [Unpack the tarball](#unpack-the-tarball)
-    * [Enter the chroot](#enter-the-chroot)
-* [Enable repository signing](#enable-repository-signing)
-    * [Build and install gnupg1](#build-and-install-gnupg1)
-    * [Import my (*Dylan Araps*) key](#import-my-dylan-araps-key)
-    * [Enable signature verification](#enable-signature-verification)
-* [Rebuild KISS](#rebuild-kiss)
-    * [Modify compiler options (optional)](#modify-compiler-options-optional)
-    * [Update all base packages to the latest versions](#update-all-base-packages-to-the-latest-versions)
-    * [Rebuild all packages](#rebuild-all-packages)
-* [Userspace tools](#userspace-tools)
-    * [Filesystems](#filesystems)
-    * [Device management](#device-management)
-    * [WiFi (*optional*)](#wifi-optional)
-    * [Dynamic IP addressing (*optional*)](#dynamic-ip-addressing-optional)
-* [The Kernel](#the-kernel)
-    * [Download the kernel sources](#download-the-kernel-sources)
-    * [Download firmware blobs (*if required*)](#download-firmware-blobs-if-required)
-    * [Configure the kernel](#configure-the-kernel)
-    * [Build the kernel](#build-the-kernel)
-    * [Install the kernel](#install-the-kernel)
-* [The bootloader](#the-bootloader)
-    * [Build and install grub](#build-and-install-grub)
-    * [Setup grub](#setup-grub)
-* [Install init scripts](#install-init-scripts)
-* [Enable the community repository](#enable-the-community-repository)
-* [Further steps](#further-steps)
+- [Index](#index)
+- [Setting up disks](#setting-up-disks)
+- [Install KISS](#install-kiss)
+  - [Download the latest release](#download-the-latest-release)
+  - [Verify the checksums (*recommended*)](#verify-the-checksums-recommended)
+  - [Verify the signature (*recommended*)](#verify-the-signature-recommended)
+  - [Download the chroot helper](#download-the-chroot-helper)
+  - [Unpack the tarball](#unpack-the-tarball)
+  - [Enter the chroot](#enter-the-chroot)
+- [Enable repository signing](#enable-repository-signing)
+  - [Build and install gnupg1](#build-and-install-gnupg1)
+  - [Import my (*Dylan Araps*) key](#import-my-dylan-araps-key)
+  - [Enable signature verification](#enable-signature-verification)
+- [Rebuild KISS](#rebuild-kiss)
+  - [Modify compiler options (optional)](#modify-compiler-options-optional)
+  - [Update all base packages to the latest versions](#update-all-base-packages-to-the-latest-versions)
+  - [Rebuild all packages](#rebuild-all-packages)
+- [Userspace tools](#userspace-tools)
+  - [Filesystems](#filesystems)
+  - [Device management](#device-management)
+  - [WiFi (*optional*)](#wifi-optional)
+  - [Dynamic IP addressing (*optional*)](#dynamic-ip-addressing-optional)
+- [The Kernel](#the-kernel)
+  - [Download the kernel sources](#download-the-kernel-sources)
+  - [Download firmware blobs (*if required*)](#download-firmware-blobs-if-required)
+  - [Configure the kernel](#configure-the-kernel)
+  - [Build the kernel](#build-the-kernel)
+  - [Install the kernel](#install-the-kernel)
+- [The bootloader](#the-bootloader)
+  - [Build and install grub](#build-and-install-grub)
+  - [Setup grub](#setup-grub)
+- [Install init scripts](#install-init-scripts)
+- [Enable the community repository](#enable-the-community-repository)
+- [Further steps](#further-steps)
 
 <!-- vim-markdown-toc -->
 
@@ -60,7 +61,6 @@ The guide will **not** cover this step. If you require assistance with this step
 
 - [Gentoo wiki](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Disks)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Installation_guide#Partition_the_disks)
-
 
 ## Install KISS
 
@@ -132,7 +132,6 @@ On execution of this step you will be running KISS! The next steps involve  the 
 This step is **entirely optional** and can also be done after the installation. See [#60](https://github.com/kisslinux/kiss/issues/60) for more information.
 
 Repository signing ensures that all updates have been signed by ([Dylan Araps](/pages/team)) and further prevents any unsigned updates from reaching your system.
-
 
 ### Build and install gnupg1
 
@@ -267,7 +266,6 @@ More kernel releases:
 - `libre`: [https://www.fsfla.org/](https://www.fsfla.org/ikiwiki/selibre/linux-libre/#downloads)
 
 A larger list of kernels can be found on the [Arch Wiki](https://wiki.archlinux.org/index.php/Kernel).
-
 
 ```
 -> wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.3.10.tar.xz

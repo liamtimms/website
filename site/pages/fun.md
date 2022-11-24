@@ -2,15 +2,13 @@
 title: Fun or Interesting Stuff
 ---
 
-I plan to collect things I find fun/interesting here. This is mostly just a place holder page at the moment[.](https://youtu.be/d6uN9xYUMxE)
-
-Links are intended to encourage deeper dives into each creator and/or subject.
+I plan to collect things I find fun/interesting here. This is mostly just a placeholder page at the moment[.] Links hopefully encourage deeper dives into each creator and/or subject.
 
 # Things to Watch
 
 ## Science and Math
 
-Interesting channels to check out for popularizing science.
+Engaging channels to check out for popularizing science:
 
 - [Sixty Symbols](https://youtu.be/9FrsYjkKhBI)
 - [3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
@@ -19,7 +17,7 @@ Interesting channels to check out for popularizing science.
 
 ## Technology
 
-Inspiring applications and developments in AI, programming and linux use.
+Inspiring applications and developments in AI, programming, and Linux use:
 
 - [Robert Miles](https://www.youtube.com/watch?v=ZeecOKBus3Q)
 - [nixcasts](https://www.youtube.com/watch?v=QeJkAs_PEQQ)
@@ -36,7 +34,7 @@ A few fundamental things for me as a person:
 
 ## Websites
 
-Interesting or odd sites to play with:
+Fun or odd sites to play with:
 
 - [An icredible Fourier Transform introduction](http://www.jezzamon.com/fourier/index.html)
 - [The First Website (CERN)](http://info.cern.ch/)
@@ -70,12 +68,7 @@ memes
 - [Glassjaw](https://www.youtube.com/watch?v=BWDRSevC7wI)
 - [TFOT](https://www.youtube.com/watch?v=9X_B1HVd_8k)
 
-## Articles
-
-- [Oliver Sacks](https://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html)
-- [Steve Mirsky](https://www.scientificamerican.com/article/acknowledging-reality-is-an-excellent-way-to-function-within-it/)
-
-# Things to Imagine
+# Things to Read
 
 ## Books
 
@@ -86,9 +79,15 @@ memes
 
 ### Nonfiction
 
-- [Evolution's Rainbow]()
 - [Sync]()
+- [Evolution's Rainbow]()
 - [Grit]()
+
+## Articles
+
+- [Oliver Sacks](https://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html)
+- [Steve Mirsky](https://www.scientificamerican.com/article/acknowledging-reality-is-an-excellent-way-to-function-within-it/)
+- [Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 ## RPGs
 

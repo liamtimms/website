@@ -27,8 +27,6 @@ In a paper I co-first authored with Dr. Gharagouzloo, we demonstrated the techni
 
 ### Clinical Work
 
-I am currently responsible for much of this ongoing project as it is the subject of my in-progress Ph.D. thesis:
-
 - In 2017, we started a clinical trial for QUTE-CE MRI for the first time in human subjects. In this **clinical trial** of the technique for brain imaging, I...
   - worked on the implementation of the scan protocol using a Siemens WIP with vitally important collaborators
   - lead the organization of the project on both the scanning logistics and the data analysis
@@ -65,3 +63,5 @@ Using Arch Linux as a base provides bleeding-edge features at the cost of stabil
 
 - [Neurodocker](https://github.com/ReproNim/neurodocker) - many of these same programs in docker containers
 - [Neurodebian](https://neuro.debian.net/) - many of these same programs packaged for Debian and Ubuntu
+
+#

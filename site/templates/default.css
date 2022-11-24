@@ -16,11 +16,12 @@ h2 {
   border-bottom: 2px inset LightGray;
 }
 
-
 main {
   flex: 1;
   width: 90%;
 }
+
+div#TOC { float: left; margin: 1em; border: 1px solid gray;}
 
 pre>code,main,#m {
   display: block;

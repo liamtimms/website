@@ -10,15 +10,15 @@ Want to include a screenshot below?, [get in touch](https://getkiss.org/pages/co
 
 <!-- vim-markdown-toc GFM -->
 
-* [Dylan Araps (dylanaraps)](#dylan-araps-dylanaraps)
-* [Muhammad Herdiansyah (KONIMEX)](#muhammad-herdiansyah-konimex)
-* [Cliford Sab (lieuxnoir)](#cliford-sab-lieuxnoir)
-* [Ominous](#ominous)
-* [Niko Tidar Lantang Perkasa (nikotidar)](#niko-tidar-lantang-perkasa-nikotidar)
-* [Phillip L (p410n3)](#phillip-l-p410n3)
+- [Index](#index)
+- [Dylan Araps (dylanaraps)](#dylan-araps-dylanaraps)
+- [Muhammad Herdiansyah (KONIMEX)](#muhammad-herdiansyah-konimex)
+- [Cliford Sab (lieuxnoir)](#cliford-sab-lieuxnoir)
+- [Ominous](#ominous)
+- [Niko Tidar Lantang Perkasa (nikotidar)](#niko-tidar-lantang-perkasa-nikotidar)
+- [Phillip L (p410n3)](#phillip-l-p410n3)
 
 <!-- vim-markdown-toc -->
-
 
 ## Dylan Araps ([dylanaraps](https://github.com/dylanaraps))
 
@@ -46,7 +46,6 @@ Want to include a screenshot below?, [get in touch](https://getkiss.org/pages/co
   <img src="/images/nestman01.jpg" alt="nestman-01">
 </picture></p>
 </a>
-
 
 ## Ominous
 
