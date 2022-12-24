@@ -12,17 +12,29 @@ I prefer to use terminal applications when possible. While it may initially soun
 
 ### The unavoidable power of text
 
+Humans communicate the majority of technical ideas and instructions via text. The terminal is a primarily text-based interface that fits neatly into this niche. It does not make sense to use it for graphical tasks like photo editing, but it is simple and elegant for anything text-oriented.
+
+Text:
+
+1. can communicate specific information with precision
+2. is exactly repeatable
+3. travels efficiently over both space (networking) and time (documentation)
+4. can be relatively quickly input into a machine
+5. is exactly repeatable
+6. The most powerful input device on your computer is currently the keyboard. Terminal applications allow you to take full advantage of this and minimize the time you spend switching input devices and mental context between keyboard and mouse.
+
 ### Remote and recall
+
+Because text is exactly repeatable and can be easily transmit, terminal based programs which use text input can be easily controlled by simple scripts or remotely without needing to render and navigate on the 2D surfaces of screens.
+
+1. Terminal applications can be run remotely without perceptible delay through `ssh`. You can efficiently and instantly utilize the full power of a personal or cloud machine remotely.
+2. Solving the problems with text-based commands in a "shell" enables quick automation of those solutions (via shell scripts) or immediate recall of the solution from history ("crtl+r" with `fzf` keybindings in the shell vastly simplifies this). There is no need to type the same command multiple times.
+3. A good terminal emulator has imperceptible input and output delay. Many modern GUI applications cannot boast this, particularly when accessed remotely.
+4. Programs like `tmux-resurrect` can reduce the disruption from working remotely or setting up whole workspaces after rebooting. You never need to leave your spot in an entire set of open files. This is not the case for most GUI applications.
 
 ### A secret third thing
 
-1. Many scripts and small software applications are developed without GUI front ends in academic or scientific contexts. Therefore, using the terminal is unavoidable. Embracing this fact increases comfort when using these programs, and familiarity reduces the cognitive load required for the inevitable debugging.
-2. Humans communicate the majority of technical ideas and instructions via text. The terminal is a primarily text-based interface that fits neatly into this niche. It does not make sense to use it for graphical tasks like photo editing, but it is simple and elegant for anything text-oriented.
-3. Solving the problems with text-based commands in a "shell" enables quick automation of those solutions (via shell scripts) or immediate recall of the solution from history ("crtl+r" with `fzf` keybindings in the shell vastly simplifies this). There is no need to type the same command multiple times.
-4. A good terminal emulator has imperceptible input and output delay. Many modern GUI applications cannot boast this, particularly when accessed remotely.
-5. Terminal applications can be run remotely without perceptible delay through `ssh`. You can efficiently and instantly utilize the full power of a personal or cloud machine remotely.
-6. The most powerful input device on your computer is currently the keyboard. Terminal applications allow you to take full advantage of this and minimize the time you spend switching input devices and mental context between keyboard and mouse.
-7. Programs like `tmux-resurrect` can reduce the disruption from working remotely or setting up whole workspaces after rebooting. You never need to leave your spot in an entire set of open files. This is not the case for most GUI applications.
+Many scripts and small software applications are developed without GUI front ends in academic or scientific contexts. Therefore, using the terminal is unavoidable. Embracing this fact increases comfort when using these programs, and familiarity reduces the cognitive load required for the inevitable debugging.
 
 ### Neovim
 
@@ -84,11 +96,43 @@ DE: I don't have one on my install, and `ssh` into the server directly.
 
 ### The Nipy Neuroimaging Python Suite
 
+Nipy is a Python library for analyzing neuroimaging data, such as MRI and PET scans. It offers tools for loading, processing, and visualizing brain images. It has a couple sub-project tools associated with it:
+
+#### Nipype
+
+Nipype is a Python library for creating and running neuroimaging pipelines. It provides a flexible and extensible interface to a range of neuroimaging tools, allowing users to easily build and execute complex processing workflows. Nipype is particularly useful for reproducibility, as it allows users to easily document and share their pipelines with others.
+
+#### Nibabel
+
+Nibabel provides a set of functions for reading and writing various neuroimaging file formats, such as NiFTI and ANALYZE, as well as tools for interacting with and manipulating neuroimaging data in a variety of ways. It is particularly useful for general MRI data analysis pipelines (even when not using it to translate between image formats as the "babel" name implies) because it allows one to load NifTI images into `numpy` arrays.
+
+#### Nilearn
+
+Nilearn is a Python library for analyzing and visualizing neuroimaging data. It provides a range of tools for loading, processing, and analyzing neuroimaging data, including MRI and PET scans, as well as functions for extracting and manipulating brain maps and other features from neuroimaging data. Nilearn is particularly useful for tasks such as statistical analysis, machine learning, and visualization of brain images.
+
+#### Dipy
+
+Diffusion imaging in Python (DiPy) is a Python library for the analysis of diffusion magnetic resonance imaging (dMRI) data. It provides a range of tools for loading, processing, and analyzing dMRI data, including functions for estimating diffusion tensors, performing tractography, and visualizing diffusion data. DiPy is particularly useful for tasks such as studying white matter microstructure, investigating brain connectivity, and analyzing the organization of the brain's fibers. I use it in my work on non-diffusion relaed research because the image correction functions it supplies can be useful for more general quantitative MR image analysis than just diffusion.
+
 ### Pandas
+
+Pandas is a Python library that provides high-performance, easy-to-use data structures and data analysis tools. It is designed to work with tabular data, such as spreadsheets or datasets in a SQL database, and allows you to manipulate and analyze these types of data in a fast and efficient manner. Pandas is widely used in data science and machine learning projects but can also be combined with `numpy` and manually created excel sheets for easy use in neuroimaging data analyis.
+
+Also of note: **Polars** which provides Pandas like dataframe structures in `rust`. It can be used in both rust and python data pipelines and delivers higher performance at the cost of less documentation, stackoverflow answers, and tutorials being currently available.
 
 ### Seaborn
 
+Seaborn is a Python library for creating graphics and visualizations. It is built on top of Matplotlib and provides a high-level interface for quickly drawing attractive data visualizations. It provides a range of graph types, including scatter plots, line plots, bar plots, and heatmaps, and has a variety of customization options to allow users to create visually appealing and informative graphics.
+
+However, an unfortunate con of seaborn is that it is often extremely difficult to make customizations to some of the default settings for each type of graph it provides and there are multiple levels of abstraction within seaborn itself. Therefore it is extremely easy to create a nice looking graph while knowing or tweaking very little, but "abstractions have a cost" and sometimes getting the _exact_ graph one desires requires learning multiple layers of seaborn _and_ the underlying matplotlib fuctions it is using _and_ understanding how to correctly pass options to both libraries at once.
+
 ### Scikit Image
+
+Scikit-image is a Python library for image processing and computer vision. It provides a range of tools for tasks such as image filtering, restoration, and feature detection, as well as functions for building image processing pipelines and working with large datasets. Scikit-image is built on top of NumPy and SciPy and is designed to be easy to use and integrate into scientific workflows.
+
+### Scikit Learn
+
+Scikit-learn is a Python library for machine learning and statistical modeling. It provides a range of tools and algorithms for tasks such as classification, regression, clustering, dimensionality reduction, and model selection, as well as tools for preprocessing and feature extraction.
 
 ## Research Tools
 
