@@ -26,6 +26,8 @@ This script requires the following dependencies to be installed on your system:
 
 ### License
 
-This script is licensed under the MIT License. See the LICENSE file for more information. The method is a modified version of one originally written by Dylan Araps ([dylanaraps](https://github.com/dylanaraps) under the MIT License. The source is long dead and had minimal documentation but was extremely useful at the time.
+This script is licensed under the MIT License. See the LICENSE file for more information. The method is a modified version of one originally written by [dylanaraps](https://github.com/dylanaraps) under the MIT License. The source is long dead and had minimal documentation but was extremely useful at the time.
 
-_This covers the style and script but does not apply to the site's content or pages on my website not generated with this method. Please erase existing page contents for your own use._
+The CSS includes a site background I made using [svgbackgrounds](https://www.svgbackgrounds.com/#flat-mountains) under CC BY 4.0.
+
+_These liscense cover the styles and script but do not apply to the site's content or pages on my website not generated with this method. Please erase existing page contents for your own use._
