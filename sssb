@@ -19,7 +19,7 @@ mk() {
 }
 
 # Delete the generated website.
-rm -rf .www site/wiki
+trash .www
 mkdir -p .www
 cd .www
 
